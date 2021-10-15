@@ -12,4 +12,4 @@ Com o desenvolvimento dessa aplicação foi adquirido conhecimentos sobre **anim
   
 ![DC5rb1mEmZ](https://user-images.githubusercontent.com/57879592/137340922-57853482-d5ed-4c5f-a620-d5f042d5cd4a.gif)
 
-</vid>
+</div>
